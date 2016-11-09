@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=example
+Name=Example plugin
+Description=An example plugin for the Hands On
+Authors=feaneron
+Copyright=Copyright © 2016 feaneron
+IAge=3
+Website=example.org
